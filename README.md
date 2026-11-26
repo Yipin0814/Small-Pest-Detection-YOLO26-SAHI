@@ -28,7 +28,7 @@ This project tackles small-object detection from both the model side and the inf
 * **Environment:** Google Colab / Kaggle Notebooks
 
 ## Sample Results
-*(Drag and drop 2–3 screenshots here: full sticky trap detection, zoomed-in close-up of detected tiny pests, and/or standard YOLO vs. P2 + SAHI comparison.)*
+<img width="1464" height="684" alt="image" src="https://github.com/user-attachments/assets/3c11d72b-adb1-4364-b90b-1db5f82f9429" />
 
 ## Author
 * **Wong Yi Pin** — Artificial Intelligence Undergraduate, Xiamen University Malaysia (XMUM)
